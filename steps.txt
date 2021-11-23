@@ -1,0 +1,14 @@
+Whats new 8.6 platform?
+https://community.pega.com/knowledgebase/products/whats-new/platform
+
+Relase Notes of Customer Service 8.6?
+https://docs.pega.com/pega-customer-service-release-notes/86/pega-customer-service-release-notes
+
+What are the Customer Service 8.6 enhancements?
+https://docs.pega.com/pega-customer-service-release-notes/86/pega-customer-service-86-enhancements
+
+What are the Customer Service Financial Services 8.6 enhancements?
+https://docs.pega.com/pega-customer-service-release-notes/86/financial-services-86-enhancements
+
+Issues resolved in 8.6?
+https://docs.pega.com/pega-customer-service-release-notes/86/issues-resolved-version-86
